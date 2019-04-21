@@ -1,0 +1,59 @@
+/*我是顶部导航开始*/
+
+.dh{
+	height: 40px;
+	
+	margin-left: auto;
+	margin-right: auto;
+
+	background-color: #333333;
+	position: relative;
+}
+.dhl{
+	height: 40px;
+	line-height: 40px;
+	margin-left: 336px;
+	width: 682px;
+	display: inline-block;
+	overflow: hidden;
+
+}
+.dhli{
+	float: left;
+	display: inline-block;
+	font-size: 12px;
+	text-decoration:none;
+	list-style: none;
+
+
+}
+.sx{
+	margin-left: 4px;
+	color: #3d423d;
+}
+.lia{
+	text-decoration: none;
+	color: #b0b0b0;
+}
+
+.dhr{
+	float: right;
+	display: inline-block;
+	
+	line-height: 40px;
+	z-index: 10;
+	right: 460px;
+	position:absolute;
+
+}
+.gwc{
+	float: right;
+	display: inline-block;
+	position: absolute;
+	right: 336px;
+	line-height: 40px;
+	
+
+}
+
+/*我是顶部导航结束*/

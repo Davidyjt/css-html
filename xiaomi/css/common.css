@@ -1,0 +1,15 @@
+/*我是顶部导航开始哦*/
+ .clearfix:after{
+        content: "";
+        clear: both;
+        display: block;
+        height: 0px;
+        visibility: hidden;
+    }
+    .clearfix{
+        *zoom:1;
+    }
+    a:hover{color: #f9f7f7;
+
+    }
+/*我是顶部导航结束*/
