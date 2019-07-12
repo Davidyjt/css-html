@@ -12,4 +12,25 @@
     a:hover{color: #f9f7f7;
 
     }
+    a{
+        text-decoration:none;
+        color: #d3d0c4;
+
+    }
+    .contain{
+        width: 1228px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .col1{width: 234px;
+        float: left;
+
+
+    }
+
+    .col2{
+        width: 978px;
+        float: right;
+    }
+    c
 /*我是顶部导航结束*/
